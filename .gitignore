@@ -1,0 +1,6 @@
+saved_summary_model/
+results/
+*.csv
+__pycache__/
+.ipynb_checkpoints/
+.vscode/

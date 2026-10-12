@@ -1,0 +1,6 @@
+transformers[torch]
+sentencepiece
+pandas
+fastapi
+uvicorn
+jinja2
